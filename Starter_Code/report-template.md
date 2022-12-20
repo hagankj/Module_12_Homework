@@ -43,6 +43,4 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 
 ## Summary
 
-Summarize the results of the machine learning models, and include a recommendation on the model to use, if any. For example:<br>
-Between the two models, the oversampled data appears to be better. One cause for pause is the accuracy measure, which is 99%. It is far more important to predict the '1' because failing do so would mean lending funds to an individual who will default and fail to pay back.
-If you do not recommend any of the models, please justify your reasoning.
+Between the two models, the oversampled data appears to be better. One cause for pause is the accuracy measure, which is 99%. <br> It is far more important to accurately predict the '1' because failing do so could mean lending funds to an individual who will ultimately default and fail to pay back.
