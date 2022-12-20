@@ -31,15 +31,15 @@ Using bulleted lists, describe the balanced accuracy scores and the precision an
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
 <br>
-    - *Accuracy*: The model accurately predicted the '0' or '1' outcome 95% of the time
-    - *Precision*: Out of all the loans the model predicted would default, the model correctly predicted 85% of the high-risk loans
+    - *Accuracy*: The model accurately predicted the '0' or '1' outcome 95% of the time<br>
+    - *Precision*: Out of all the loans the model predicted would default, the model correctly predicted 85% of the high-risk loans<br>
     - *Recall*: The recall score was equally high, correctly prediting the outcome of the loan 91% of the time.
 
 * Machine Learning Model 2:
   * Description of Model 2 Accuracy, Precision, and Recall scores.
 <br>
-    - *Accuracy*: The model accurately predicted the '0' or '1' outcome 99% of the time
-    - *Precision*: Out of all the loans the model predicted would default, the model correctly predicted 84% of the high-risk loans
+    - *Accuracy*: The model accurately predicted the '0' or '1' outcome 99% of the time<br>
+    - *Precision*: Out of all the loans the model predicted would default, the model correctly predicted 84% of the high-risk loans<br>
     - *Recall*: The recall score was equally high, correctly prediting the outcome of the loan 99% of the time.
 
 
